@@ -28,7 +28,7 @@ twitter_username: vikaspya
 github_username:  vikasya
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
